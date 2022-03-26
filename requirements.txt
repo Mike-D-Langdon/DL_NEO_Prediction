@@ -1,0 +1,7 @@
+seaborn
+matplotlib.pyplot
+numpy
+pandas
+tensorflow
+tensorflow.keras
+tensorflow.keras.layers
