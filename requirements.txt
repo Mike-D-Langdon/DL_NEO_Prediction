@@ -1,7 +1,5 @@
 seaborn
-matplotlib.pyplot
+matplotlib
 numpy
 pandas
 tensorflow
-tensorflow.keras
-tensorflow.keras.layers
